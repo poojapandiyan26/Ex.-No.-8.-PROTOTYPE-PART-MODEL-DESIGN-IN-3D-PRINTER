@@ -1,6 +1,4 @@
 # Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
-
-### DATE: 
 ## AIM: 
 ### To prototype the Air filter design in 3D Printer.
 
@@ -50,8 +48,8 @@
 <img width="666" height="374" alt="WhatsApp Image 2026-05-26 at 11 20 18 AM" src="https://github.com/user-attachments/assets/9abba095-3dd5-4f07-8733-1b372db88ee2" />
 
 
-### Name: SAI DESHIYA K 
-### Register Number:212224220084
+### Name: POOJA SRI P 
+### Register Number:212224230197
 
 ## RESULT:
-###   Thus a prototype of the given part model is developed using 3D Printer.
+Thus a prototype of the given part model is developed using 3D Printer.
